@@ -86,6 +86,6 @@ We welcome contributions! For guidelines, please check our CONTRIBUTING.md.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 👩‍💻 Contact
-For inquiries, partnerships, or support, reach us at: 📧 support@myethosphere.com 🌐 myethosphere.com
+For inquiries, partnerships, or support, reach us at: 📧 larry@myethosphere.com 🌐 myethosphere.com
 
 ETHOS: Demystifying Contracts, Unleashing Confidence
